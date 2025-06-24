@@ -11,76 +11,80 @@
 
 ### 🌟 About Me
 
-- 🧑‍💻 I’m a **fresher DevOps Engineer** with a passion for cloud technologies and automation.  
-- ☁️ Currently learning **AWS, Docker, Kubernetes, and Python scripting**.  
-- 🛠️ Working on **personal DevOps projects** to build hands-on experience.  
-- 🚀 Focused on mastering **CI/CD, Infrastructure as Code (IaC), and Cloud Monitoring**.  
-- 🤝 Always open to learning and collaborating on open-source or cloud-native projects.
+> 🧑‍💻 I’m a **fresher DevOps Engineer** from India with a passion for cloud technologies, automation, and CI/CD pipelines.  
+> 🌱 Learning DevOps tools like **AWS, Docker, Kubernetes, Jenkins, Terraform, Ansible, Prometheus, Grafana, and Python scripting**.  
+> 🚀 Building personal projects to get hands-on with real DevOps workflows.  
+> 🤝 Open to collaboration, internships, or DevOps-based freelance projects.
 
 ---
 
-### 🚀 My Skills
+### 🚀 Languages and Tools
 
-#### ☁️ Cloud Platforms:
-![AWS](https://img.shields.io/badge/AWS-Beginner-orange?style=for-the-badge&logo=amazonaws)
-![Azure](https://img.shields.io/badge/Azure-Beginner-blue?style=for-the-badge&logo=microsoftazure)
+<p align="center">
+  <!-- Cloud -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50" height="50" alt="AWS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="50" height="50" alt="Azure" />
 
-#### 🐳 Containerization:
-![Docker](https://img.shields.io/badge/Docker-Beginner-blue?style=for-the-badge&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Learning-blue?style=for-the-badge&logo=kubernetes)
+  <!-- Containers -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50" height="50" alt="Kubernetes" />
 
-#### 🧰 DevOps Tools:
-![Git](https://img.shields.io/badge/Git-Basic-red?style=for-the-badge&logo=git)
-![Jenkins](https://img.shields.io/badge/Jenkins-Learning-blue?style=for-the-badge&logo=jenkins)
-![Terraform](https://img.shields.io/badge/Terraform-Learning-purple?style=for-the-badge&logo=terraform)
+  <!-- DevOps Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="50" height="50" alt="Ansible" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="50" height="50" alt="Jenkins" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="50" height="50" alt="Terraform" />
 
-#### 🐍 Programming & Scripting:
-![Python](https://img.shields.io/badge/Python-Beginner-yellow?style=for-the-badge&logo=python)
-![Bash](https://img.shields.io/badge/Bash-Scripting-blue?style=for-the-badge&logo=gnu-bash)
+  <!-- Monitoring -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="50" height="50" alt="Prometheus" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="50" height="50" alt="Grafana" />
+
+  <!-- OS -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50" alt="Linux" />
+
+  <!-- Scripting -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" height="50" alt="Bash" />
+</p>
 
 ---
 
-### 📘 Sample Projects (Learning)
+### 🧪 Projects (Hands-on)
 
-- **🌐 AWS WordPress Hosting**  
-  Set up EC2, RDS, S3, and Route 53 for hosting WordPress in a simulated environment.
-
-- **🐳 Dockerized Python App**  
-  Built a Flask app and containerized it with Docker for deployment.
-
-- **🔁 CI/CD Demo Pipeline**  
-  Created a local pipeline using Git, Jenkins, and Docker to simulate DevOps practices.
+- **🚀 Cloud-Based WordPress Hosting** – EC2, RDS, S3, Route53, and IAM.
+- **🐳 Dockerized Flask App** – Containerized a Python app and pushed to Docker Hub.
+- **🔁 CI/CD Pipeline Demo** – Jenkins + Git + Docker for automated testing & build.
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=tokyonight" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=tokyonight" />
 </p>
 
 ---
 
-### 📫 Connect With Me
+### 📫 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Gmail-grey?style=for-the-badge&logo=gmail)](mailto:your.email@example.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/your-github-username)
 
 ---
 
 ### 🎯 Currently Learning
 
-- ✅ AWS & Cloud Foundations  
-- ✅ CI/CD Tools – GitHub Actions, Jenkins  
-- ✅ Docker & Kubernetes  
-- ✅ Infrastructure as Code with Terraform  
-- ✅ Python for Automation
+- ☁️ AWS & Azure  
+- 🐳 Docker & Kubernetes  
+- 🔁 CI/CD with Jenkins & GitHub Actions  
+- 🛠️ Ansible & Terraform  
+- 📊 Monitoring with Prometheus & Grafana  
+- 🐍 Python for Automation
 
 ---
 
-> 💬 “Every expert was once a beginner. Stay consistent, stay curious.”
+> 💬 *“Every expert was once a beginner. Keep building, keep shipping!”*
