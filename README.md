@@ -3,6 +3,8 @@
 <h1 align="center">Hi 👋, I'm Aadhilingam</h1>
 <h3 align="center">Fresher | DevOps Enthusiast | AWS | Azure | Docker | Kubernetes | Python</h3>
 
+
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=Aspiring+DevOps+Engineer;Cloud+%7C+Automation+%7C+Containers;Learning+CI%2FCD+%7C+IaC+%7C+Monitoring" alt="Typing SVG" />
 </p>
