@@ -70,9 +70,9 @@
 
 ### 📫 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/Gmail-grey?style=for-the-badge&logo=gmail)](mailto:your.aadhilingamindiran@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/your-github-Aadhilingam)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-profile)  
+[![Gmail](https://img.shields.io/badge/Gmail-grey?style=for-the-badge&logo=gmail)](mailto:aadhilingamindiran@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/your-github-username)
 
 ---
 
